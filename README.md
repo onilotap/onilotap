@@ -49,7 +49,7 @@ Breve descrição do projeto e suas tecnologias principais.
 
 ## Contato
 
-- **E-mail:** [Seu E-mail]
+- **E-mail:** [tipbr1@icloud.com]
 - **Twitter:** [Seu Perfil no Twitter]
 - **LinkedIn:** [Seu Perfil no LinkedIn]
 
